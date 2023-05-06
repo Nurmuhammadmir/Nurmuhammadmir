@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Interested in programming in Python (bots, server side of sites(backend), etc.)..
+### - 🔭 Interested in programming in Python (bots, server side of sites(backend), etc.)..
 - 🌱 I’m currently learning java, js 
 - 👯 I’m looking to collaborate on ITPark
 - 🤔 I am actively work with Python
